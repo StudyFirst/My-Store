@@ -1,6 +1,7 @@
 # My-Store
 use to for my study
 I'm a student   My science  is  develop programe 
+my site is   xj.newhand.com
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/StudyFirst/Text/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
